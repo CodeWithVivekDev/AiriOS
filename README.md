@@ -1,4 +1,4 @@
-# 🌸 Sakura AI — 3D Anime Voice Assistant
+# 🌸 AiriOS — 3D Anime Voice Assistant
 
 A web-based conversational AI voice assistant featuring a fully rigged, real-time lip-syncing 3D anime avatar powered by VRM technology.
 
